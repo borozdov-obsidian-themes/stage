@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-stage",
+  "private": true,
+  "description": "A white stage with lilac spotlights: airy near-white canvas, oversized geometric headlines, soft 16px cards and one aubergine for what you send.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
