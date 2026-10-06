@@ -34,10 +34,14 @@ what you send.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Stage**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Console**. Install Borozdov Console under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Stage** under Style Settings → Borozdov Console → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/stage/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Stage/`, then choose Borozdov Stage under
 Settings → Appearance → Themes.
@@ -57,5 +61,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Прожектор» — белая сцена с
 сиреневыми заливками, и тёмный «Закулисье» — та же сцена при погашенном свете. Воздушный
 почти белый холст, крупные геометрические заголовки (Montserrat), мягкие карточки 16px и
-один баклажановый для того, что вы отправляете. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Stage → Установить и применить.
+один баклажановый для того, что вы отправляете. В каталоге тема живёт вариантом Borozdov Console: установите Borozdov Console и плагин Style Settings, затем выберите Stage в Style Settings → Borozdov Console → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
